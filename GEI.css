@@ -35,6 +35,8 @@ float: right;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+    position: absolute;
+    left: 610px;
     
 }
 .header {
